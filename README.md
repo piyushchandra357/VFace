@@ -1,4 +1,3 @@
-# Team MLian
 ## Automatic Identity verification System
 ---
  ### Info: 
