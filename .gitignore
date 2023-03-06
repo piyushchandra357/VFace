@@ -15,3 +15,6 @@ instance/
 
 #API keys
 serviceAccountKey.json
+
+#workspace
+VFace.code-workspace
